@@ -19,3 +19,7 @@ This dashboard is built using the **Superstore dataset**, which includes:
 
 The data is processed and transformed using **Power Query** to clean, merge, and structure it for analysis.
 
+Contact
+created by SnehaRajoli
+sneharajoli26@gmail.com
+
